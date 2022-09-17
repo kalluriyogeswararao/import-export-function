@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bg-container {
+  background-color: #475569;
+  padding: 30px;
+  padding-left: 100px;
+}
+
+.nav-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'roboto';
+  font-weight: 600;
+}
+
+.checkbox {
+  width: 15px;
+  margin-right: 8px;
+}
+
+.checkbox-container {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.para {
+  font-size: 17px;
+  color: #ffffff;
+  font-family: 'roboto';
+  cursor: pointer;
+}
